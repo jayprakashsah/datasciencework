@@ -1,0 +1,9 @@
+route_id,route_name,distance_km,stop_count,corridor
+R01,Central Loop,18.5,22,CBD
+R02,Riverside,14.2,17,East
+R03,University Express,21.0,12,North
+R04,Market Connector,11.8,15,CBD
+R05,Airport Link,28.4,10,South
+R06,Industrial Park,16.3,19,West
+R07,Coastal Line,24.6,20,East
+R08,Hospital Shuttle,9.7,11,North
